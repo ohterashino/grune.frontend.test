@@ -37,7 +37,6 @@ var mySwiper = new Swiper('.swiper1', {
 
 // swiper2
 const swiper = new Swiper(".swiper2", {
-		loop: true,
 		spaceBetween: 20,
 		slidesPerView: 4,
 		breakpoints: {
@@ -52,9 +51,6 @@ const swiper = new Swiper(".swiper2", {
   }
 });
 // swiper2 End
-
-
-
 
 
 // swiper2 favorite_btn
